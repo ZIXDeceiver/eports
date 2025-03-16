@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#reflections">Reflection</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1>Greetings User! Welcome to my 3rd Electronic Portfolio, if you know who I am then great! But if not that is alright. I am Iorick Xarles Dulay of Grade 9 Faith, I am now currently 15 years old and attending Las Piñas City National Science High School. Enjoy! </h1>
+    <p>This is my personal portfolio website.</p>
+    <button id="showMore">Show More</button>
+    <div id="moreInfo" style="display: none;">
+      <p>Here's more information about me.</p>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project">
+      <h3>Project 1</h3>
+      <p>This is my first project.</p>
+    </div>
+    <div class="project">
+      <h3>Project 2</h3>
+      <p>This is my second project.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Get in Touch</h2>
+    <form>
+      <input type="text" placeholder="Name">
+      <input type="email" placeholder="Email">
+      <textarea placeholder="Message"></textarea>
+      <button>Submit</button>
+    </form>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

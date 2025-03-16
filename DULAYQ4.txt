@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DULAY_Q4_EPORT</title>
+  <link rel="stylesheet" href="34th.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#projects">Projects</a></li>
+<li><a href="#gallery">Gallery</a></li>
+        <li><a href="#reflection">Reflection</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1><b><i>Electronic Portfolio</i> </b></h1>
+    <p>Greetings User!</p>
+    <button id="showMore">Show More</button>
+    <div id="moreInfo" style="display: none;">
+      <p>Here's more information about me. <br> Welcome to my 3rd Electronic Portfolio, if you know who I am then great! But if not that is alright. <br>I am Iorick Xarles Dulay of Grade 9 Faith, I am now currently 15 years old and attending Las Piñas City National Science High School. <br> <h4>Enjoy!</h4></p>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>My Projects</h2>
+    <div class="project">
+      <h3>First Quarter E-Portfolio</h3>
+      <p><a href="https://notderpyaby.github.io/Dulay/" ><b>Click me to see my Past E-Portfolio!</b></a></p>
+    </div>
+    <div class="project">
+      <h3>Second Quarter E-Portfolio</h3>
+      <p><a href= "https://notderpyaby.github.io/Dulay-2nd-Qrtr/"<b> Click me to see my Past E-Portfolio!</b></a></p>
+</div>
+
+  <div class="project">
+<h3>Project 1</h3>
+      <p><a href="LESSON 1 ALERT BOX.HTML">Alert Box</a> <br>
+<a href="LESSON 1 CONFIRM BOX.HTML">Confirm Box</a> <br>
+<a href="LESSON 1 PROMPT BOX.HTML">Prompt Box</a> <br>
+</p>
+    </div>
+    <div class="project">
+
+ <h3>Project 2</h3>
+      <p><a href="LESSON 2 IF ELSE STATEMENT.HTML">If Else Statement</a> <br>
+<a href="LESSON 2 SWITCH STATEMENT.HTML">Switch Statement</a>
+</p>
+    </div>
+
+<h3>Project 3</h3>
+      <p><a href="LESSON 3 FUNCTION.HTML">Function</a> <br>
+<a href="LESSON 3 RETURN FUNCTION.HTML">Return Function</a>
+<hr>
+</p>
+    </div>
+
+<h3>Project 4</h3>
+      <p><a href="LESSON 4 FORLOOP.HTML">Forloop</a> <br>
+<a href="LESSON 4 WHILELOOP.HTML">Whileloop</a><br>
+<a href="LESSON 4 DOWHILELOOP.HTML">Dowhileloop</a> <hr>
+
+</p>
+    </div>
+  </section>
+
+
+<br> <br> <br> <br>
+    <br>
+  <section id="gallery">
+<h2> Gallery </h2> 
+            <div class="gallery">
+
+ <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a. intro.png"alt="OAP" width="200" height="200"> 
+            
+ <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a. Lighting.png"alt="OAP" width="200" height="200"> 
+
+ <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a. stressors.png" alt="OAP" width="200" height="200"> 
+
+ <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.brightness.jpg" alt="OAP" width="200" height="200"> 
+
+ <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.fun.png" alt="OAP" width="200" height="200">
+
+ <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.gulpany.png"alt="OAP" width="200" height="200"> 
+
+ <img src= "C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.silaw.jpg"alt="OAP" width="200" height="200"> 
+
+ <img src="C:\Users\Iorick Xarles\OneDrive\Desktop\EPORT\Q2\a.props.png" alt="OAp" width="200" height="200">
+            </div>
+        </section>
+<br>
+<br>
+<br>
+<br>
+  <section id="reflection">
+            <h2>Reflection</h2>
+<p> To be frank these last two quarters have been a whirlwind of projects, activities, Performance Tasks and deadlines. While stressful, it was certainly not dull. So many new experiences and revelations happened that was both fun and annoying at times. Honestly ICT has been kind one of the more kinder subjects, as weird as it is to say, I think I'll actually miss doing the Ict Hand-On. Anyways, this is Iorick Xarles Dulay Signing off. Byeeeee<3
+     </section>
+
+  <script src="34th.js"></script>
+</body>
+</html>

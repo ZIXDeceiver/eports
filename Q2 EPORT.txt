@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DULAY.2</title>
+    <link rel="stylesheet" href="EPORT2.css">
+
+
+</head>
+<body>
+    <header>
+        <h1>3rd and 4th Quarter E-Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#reflection">Reflection</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello Dear User, welcome back. If you're clicking this then you already know who I am. But if you don't that's alright. For starters, I am Iorick Xarles Dulay, Class Secretary of Grade 9 Faith. I am now currently 15 years old and attending Las Piñas City National Science High School. Since this would be the last Electronic Portfolio I would submit for this year. I decided to compile all of them here for you for Simplicity's sake. Now here's some more information about what happened to me over this entire school year. Enjoy! </p>
+
+            <h3>My Hobbies:</h3>
+            <ul>
+                <li>Playing Games (specifically Pokemon)</li>
+                <li>Photography</li>
+                <li>Dancing</li>
+                <li>Singing</li><br>
+For some visuals of these examples, please check the <i>Gallery</i>. 
+            </ul>
+          
+        </section>
+
+        <section id="projects">
+            <h2>My Projects</h2>
+            <p>Here are some of the past projects I've worked on this Second Quarter:</p>
+            <ol>
+                <li><a href="https://notderpyaby.github.io/Dulay/" ><b>Click me to see my Past E-Portfolio!</b></a></li>
+                
+                <li><b>Max Seminar</b>, this seminar was for us "chosen" individuals to learn about Food Safety. Below is the certifiate given for our participation.<img src="MAX.jpg" width="300" height="300"></li>
+                
+                <li> <b>Intramurals 2024</b>, where in I competed in Dancesports, Modern-Standard Catergory. In which me and my Dance Partner, Anna Sophia won 3rd Place. Below is a video of us dancing during the compeitition and our certificate: <video src="Dancesports.mp4" width="400" controls height="400"></video><img src="DCert.jpg" width="300" height="300"></li>
+</li>
+                <li><b>Historical Icons</b>, where I worked on the Headress and some of the Jewelry. Below is an incomplete version of the Dress and Jewelry. <img src="Icon.jpeg" width="200" height="300"></li>
+                
+                 <li><b>Booklandia</b>, where our magnificient representatives, Bliss Gatbonton and Chase Leonardia won 1st Runner-Up.Below is the image of our representatives dresses as Joker and Harley Quinn.<img src="BL.jpeg" width="200" height="300"></li>
+
+                  <li><b>VPOP</b>, where I helped in choosing the songs, their individual timestamps and is a dancer in. But this video is currently only from when we practice our singing. Below is a video of us singing like its a concert. <video src="VPOP-S.mp4" width="400" controls height="400"></video></li>
+            </ol>
+          
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <p>Check out some of the examples given, with visuals!:</p>
+            <div class="gallery">
+                <img src="Nico.jpg" alt="Booklandia Costume" width="200" height="200"> Here's me during Booklandia 2024
+                <img src="Team.jpg" alt="Pokemon Team" width="200" height="200"> Here's the Team I'm currently using.
+                <img src="Hell.jpg" alt="School Picture" width="200" height="200"> Here's a picture of school, in the point of view of some of the Senior High Schoolers.
+                <img src="Dancin.jpg" alt="Intram Part2" width="200" height="200"> Here's a picture of me and Anna with our medals.
+            </div>
+        </section>
+
+        <section id="reflection">
+            <h2>Relfection</h2>
+To be frank, this second quarter I haven't learned much, not only in this subject but in all other. Maybe its due to me taking on extracurricular activities, like Dancesports and Seminars. But for the parts that I did get to learn, those I understand enough to a fault.         
+Overall, this entire quarter was: A. too short and B. far too crowded with events, seminars and such. But it also had its upsides. Thank you for visit my Second E-Portfolio, may we meet in the Third. But until then have fun, Byyeeee.
+    
+  <header>
+        <h1>3rd and 4th Quarter E-Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#reflection">Reflection</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+   
+</body>
+</html>

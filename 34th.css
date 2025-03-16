@@ -1,0 +1,73 @@
+body {
+background: #7f68c7
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4b378a;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#home {
+  background-image: linear-gradient(to bottom, #f1f1f1, #ccc);
+  padding: 20px;
+  text-align: center;
+}
+
+#projects {
+  padding: 20px;
+}
+
+.project {
+  background-color: #f9f9f9;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+#contact {
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, textarea {
+  margin: 10px;
+  padding: 10px;
+  width: 50%;
+}
+
+button {
+  padding: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #444;
+}
